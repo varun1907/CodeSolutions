@@ -1,0 +1,34 @@
+.header{
+	text-align: center;
+	color:green;
+}
+#dashboard{
+	text-align: center;
+	border-bottom: 1px solid gray;
+	height: 55px;
+	margin-top: 30px;
+}
+#dashboard h6{
+		font-size: 1.2em;
+		font-family: Helvetica;
+		color: gray;
+}
+
+#dashboard h6:hover{
+	color: black;
+}
+.pqr p{
+	text-align: center;
+	font-family: Garamond;
+}
+.platforms_grid{
+	
+	margin:3px;
+}
+.pqr{
+	margin: 10px;
+	border:1px solid #C2C7D0;
+}
+.pqr:hover{
+	border:1px solid green;
+}
