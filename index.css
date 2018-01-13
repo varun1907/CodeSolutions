@@ -17,6 +17,15 @@
 #dashboard h6:hover{
 	color: black;
 }
+/*
+.platforms_grid{
+
+	background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url('pexels-photo-356079.jpeg');
+	background-repeat: no-repeat;
+	background-size: cover;
+    background-position: center;
+    height: 500px;
+}*/
 .pqr p{
 	text-align: center;
 	font-family: Garamond;
